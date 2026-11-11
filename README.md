@@ -9,6 +9,10 @@ A responsive, single-page portfolio website for work applications. Built with pl
 3. Select branch **main** and folder **/(root)**, then Save.
 4. GitHub will provide the published website URL in the Pages section.
 
+## Portfolio sections
+
+The website includes a practical work section covering social media creatives, personal branding assets, digital invitation/QR website work, Google Calendar walkthroughs, HR/recruitment workflows, and operational reporting. These are described as representative work and workflow examples, not confidential client deliverables.
+
 ## Add the supplied photographs
 
 Create an `images` folder in the repository and upload these files using the exact filenames below:
@@ -21,7 +25,7 @@ Create an `images` folder in the repository and upload these files using the exa
 | `internet-speed.png` | Internet speed-test screenshot |
 | `macbook-air-m5.png` | MacBook Air M5 / display details screenshot |
 
-The HTML references these paths. The photo files are not embedded in the website yet, so upload them before sharing the portfolio publicly.
+The HTML references these paths. **Important:** the five image files are not currently present in the repository (checked November 11, 2026). Upload them with the exact filenames above before sharing the portfolio publicly. The page already references these paths; until uploaded, the photo and equipment image areas will show as empty image placeholders.
 
 ## Content source
 
